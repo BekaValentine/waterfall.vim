@@ -2,13 +2,13 @@
 
 A minimal Vim colorscheme, inspired by [Paramount].
 
-# Installation
+## Installation
 
 Use your preferred plugin manager, e.g. using vim-plug:
 
     Plugin 'rj-white/waterfall.vim'
 
-# Usage
+## Usage
 
     :colorscheme waterfall
 
