@@ -2,6 +2,8 @@
 
 A minimal Vim colorscheme, inspired by [Paramount].
 
+![Vim script screenshot](https://i.imgur.com/AXb4p3V.png)
+
 ## Installation
 
 Use your preferred plugin manager, e.g. using vim-plug:
